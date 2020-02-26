@@ -7,7 +7,12 @@ MacOS Catalina 10.15.3
 Kingston NVMe 512gb (Windows 10)
 Samsung 860 Evo 1tb SSD (MacOS Catalina 10.15.3)
 
+
+Setup as MacBook Pro 15,2
+
 Clover 5103 is the current Clover boot loader.
+
+Config.plist has been edited and had serial number removed.
 
 This took a bit to setup. Tried various USB installers (Tonymac, Olarila, Niresh) to get this up. Only one that seemed to work was Niresh Mojave (which was version 10.14.1). Had to install as Legacy. UEFI would not work. Could not get the Samsung 860 Evo  SSD to recognize to boot up without the USB installer in the USB drive. In order to get Catalina installed I had to manually update each Mojave update (10.14.2 and then 10.14.3 and then 10.14.4). After each install it would go to black screen. Had to reboot after each one and use the USB installer to get into Clover and choose MacOS Install on (computer name). Once that got setup updated to Catalina 10.15.3 from the System Preferences, Update pane.
 
