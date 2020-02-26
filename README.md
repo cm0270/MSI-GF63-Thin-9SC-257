@@ -39,6 +39,8 @@ Brightness functions in Display settings works fine. Can't figure out how to wor
 
 Not working:
 
+Battery Indicator.
+
 Intel HD 630 Graphics. Doesn't show up in System Information and listed as Intel HD 630 CFL CRB 1536 MB. Graphics seems to work fine. No lag noticed. Youtube videos play fine with no lag.
 
 Still get the black screen which takes about 3-4 minutes to get past once it passes the verbose screen. Can't figure out how to get rid of that.
